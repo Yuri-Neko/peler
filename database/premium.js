@@ -2,7 +2,7 @@ const { User, Utils } = require('./model');
 const toMs = require('ms');
 const { limitCount, limitPremium } = require('../library/settings');
 const e = require('connect-flash');
-const tokens = 'Lann'
+const tokens = 'wudysoft'
 module.exports.tokens = tokens
 
     async function addPremium(username, customKey, expired) {
