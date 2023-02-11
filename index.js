@@ -102,7 +102,7 @@ app.get("/docs", async (req, res) => {
 	if (!req.user) {
 		text_running = "Update+Instagram+Stories;Silahkan+lapor;Bila+menemukan+bug;Terima+kasih.";
 		users = {
-			apikey: "wudysoft",
+			apikey: "Lann",
 			url: profilePath
 		};
 	} else {
