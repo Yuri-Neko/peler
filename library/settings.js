@@ -1,8 +1,8 @@
 
 module.exports = {
 	service: "gmail",
-	myEmail: 'ditzzsenpai@gmail.com',
-        passEmailApp: '-',
+	myEmail: 'irfanwibu88@gmail.com',
+        passEmailApp: 'pabv ysgc nlhi aari',
 	limitCount: 40,
 	limitPremium: 9999,
         expiredTokenDb: 3600,
